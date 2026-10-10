@@ -27,3 +27,11 @@
 Первичная концепция подготовлена. Далее — первый исследовательский выпуск, рабочие таблицы и дневник. Страна и сроки личного переезда пока не объявлены. Условия участия и дата выпуска полной программы не определены.
 
 **Готовим переезд вместе с ИИ: от выбора страны до обустройства на новом месте.**
+
+## Contact / Контакты
+
+For project inquiries and technology collaboration: **[vladimir.uzbek.ai@gmail.com](mailto:vladimir.uzbek.ai@gmail.com)**.
+
+По вопросам проектов и сотрудничества: **[vladimir.uzbek.ai@gmail.com](mailto:vladimir.uzbek.ai@gmail.com)**.
+
+[Personal technology portfolio](https://personal-portfolio-web-production-1e48.up.railway.app/) · [All public GitHub projects](https://github.com/loaderxxx?tab=repositories&type=public).
